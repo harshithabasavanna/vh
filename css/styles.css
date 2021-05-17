@@ -19,11 +19,11 @@ body
 .img-fluid
 {
 padding: 20%;
-padding-top: 50%;
+padding-top: 30%;
 }
 .icon
 {
-  color: white;
+color: white;
   margin-bottom: 1rem;
 }
 .icon:hover
@@ -40,7 +40,7 @@ h3
 p
 {
   font-family: 'Lovers Quarrel', cursive;
-  font-size: 5rem;
+  font-size: 3rem;
   color: white;
 }
 .baby
@@ -62,7 +62,7 @@ a
   font-family: 'Days One', sans-serif;
   text-align: center;
 }
-.fas
+.ico
 {
   color: red;
 }
